@@ -1,0 +1,11 @@
+-- Đẩy lần đầu (trên github chưa có nhánh)
+git add -A
+git commit -m "create home page html"
+hit hush -u origin (tên nhánh hiện tại)
+
+-- Đẩy lần 2 trở đi
+git add -A
+git commit -m "create home page html"
+git push
+---------------------------------------
+==================================
